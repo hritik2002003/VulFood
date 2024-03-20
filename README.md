@@ -1,4 +1,4 @@
-# FoodHunt
+# VulFood
 
 A food delivery application made using React and Swiggy's API.
 
